@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/nagarjuna_profile/static/css/main.b100e6da.chunk.css",
-    "main.js": "/nagarjuna_profile/static/js/main.1569c81e.chunk.js",
-    "main.js.map": "/nagarjuna_profile/static/js/main.1569c81e.chunk.js.map",
+    "main.css": "/nagarjuna_profile/static/css/main.77ea6ffa.chunk.css",
+    "main.js": "/nagarjuna_profile/static/js/main.2ec36e8b.chunk.js",
+    "main.js.map": "/nagarjuna_profile/static/js/main.2ec36e8b.chunk.js.map",
     "runtime-main.js": "/nagarjuna_profile/static/js/runtime-main.569d0f7a.js",
     "runtime-main.js.map": "/nagarjuna_profile/static/js/runtime-main.569d0f7a.js.map",
-    "static/js/2.b2eafbce.chunk.js": "/nagarjuna_profile/static/js/2.b2eafbce.chunk.js",
-    "static/js/2.b2eafbce.chunk.js.map": "/nagarjuna_profile/static/js/2.b2eafbce.chunk.js.map",
+    "static/js/2.01757488.chunk.js": "/nagarjuna_profile/static/js/2.01757488.chunk.js",
+    "static/js/2.01757488.chunk.js.map": "/nagarjuna_profile/static/js/2.01757488.chunk.js.map",
     "index.html": "/nagarjuna_profile/index.html",
-    "precache-manifest.150459f44e589dde7e9a34a28b20a529.js": "/nagarjuna_profile/precache-manifest.150459f44e589dde7e9a34a28b20a529.js",
+    "precache-manifest.2479e88e0f8ec530cc125eaa2fa7ed65.js": "/nagarjuna_profile/precache-manifest.2479e88e0f8ec530cc125eaa2fa7ed65.js",
     "service-worker.js": "/nagarjuna_profile/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/nagarjuna_profile/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/nagarjuna_profile/static/media/logo.25bf045c.svg"
+    "static/css/main.77ea6ffa.chunk.css.map": "/nagarjuna_profile/static/css/main.77ea6ffa.chunk.css.map",
+    "static/media/logo.svg": "/nagarjuna_profile/static/media/logo.25bf045c.svg",
+    "static/media/myimg1.jpg": "/nagarjuna_profile/static/media/myimg1.e9e5a1ce.jpg"
   }
 }
